@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sherlock/AndroidStudioProjects/NotBored/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_details.xml",
+        "source": "/home/sherlock/AndroidStudioProjects/NotBored/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/home/sherlock/AndroidStudioProjects/NotBored/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_activities.xml",
+        "source": "/home/sherlock/AndroidStudioProjects/NotBored/app/src/main/res/layout/activity_activities.xml"
+    },
+    {
+        "merged": "/home/sherlock/AndroidStudioProjects/NotBored/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_terms_and_conditions.xml",
+        "source": "/home/sherlock/AndroidStudioProjects/NotBored/app/src/main/res/layout/activity_terms_and_conditions.xml"
+    },
+    {
+        "merged": "/home/sherlock/AndroidStudioProjects/NotBored/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/sherlock/AndroidStudioProjects/NotBored/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sherlock/AndroidStudioProjects/NotBored/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_activities.xml",
+        "source": "/home/sherlock/AndroidStudioProjects/NotBored/app/src/main/res/layout/item_activities.xml"
+    }
+]

@@ -1,0 +1,12 @@
+com/emanuel/notbored/databinding/ActivityActivitiesBinding.java
+ com.emanuel.notbored.databinding.ActivityActivitiesBinding
+com/emanuel/notbored/databinding/ActivityDetailsBinding.java
+ com.emanuel.notbored.databinding.ActivityDetailsBinding
+com/emanuel/notbored/databinding/ItemActivitiesBinding.java
+ com.emanuel.notbored.databinding.ItemActivitiesBinding
+com/emanuel/notbored/BuildConfig.java
+ com.emanuel.notbored.BuildConfig
+com/emanuel/notbored/databinding/ActivityMainBinding.java
+ com.emanuel.notbored.databinding.ActivityMainBinding
+com/emanuel/notbored/databinding/ActivityTermsAndConditionsBinding.java
+ com.emanuel.notbored.databinding.ActivityTermsAndConditionsBinding
